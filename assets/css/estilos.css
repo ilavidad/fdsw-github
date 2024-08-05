@@ -12,6 +12,20 @@ body {
 }
 
 /* Mis trabajos */
+.bg-info {
+  background-color: violet !important; 
+}
+
+.btn-info{
+  background-color: violet !important;
+  border: none !important;
+}
+
+.btn-outline-info{
+  background-color: transparent !important;
+  border: 2px solid violet !important;
+}
+
 
 #Mis-trabajos .image-top {
   height: 250px;
