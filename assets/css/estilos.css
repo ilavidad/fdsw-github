@@ -26,6 +26,16 @@ body {
   border: 2px solid violet !important;
 }
 
+.card .btn-outline-info{
+  color: #770909;
+  border-color: #770909;
+}
+
+.card .btn-outline-info:hover {
+  background-color: blueviolet; /* Color de fondo al pasar el cursor */
+  color: rgb(251, 247, 0); /* Color del texto al pasar el cursor */
+}
+
 
 #Mis-trabajos .image-top {
   height: 250px;
