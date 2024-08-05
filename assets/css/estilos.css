@@ -36,6 +36,13 @@ body {
   color: rgb(251, 247, 0); /* Color del texto al pasar el cursor */
 }
 
+.card .btn-outline-info:focus,
+.card .btn-outline-info:active,
+.card .btn-outline-info:focus-visible {
+    box-shadow: none; 
+    outline: none; 
+}
+
 
 #Mis-trabajos .image-top {
   height: 250px;
